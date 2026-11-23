@@ -1,2 +1,0 @@
-# pavos-web
-PAVOS website
