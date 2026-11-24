@@ -1,0 +1,18 @@
+PAVOS — Proprietary Software
+Copyright (c) 2026 the PAVOS developer. All rights reserved.
+
+This software, including its source code, compiled code, design, text, icons,
+illustrations and characters (the "Software"), is confidential and proprietary.
+
+No license is granted. Without prior written permission from the copyright
+holder, you may not copy, reproduce, modify, distribute, publish, sublicense,
+sell, reverse engineer, decompile, disassemble or create derivative works of
+any part of the Software.
+
+Access to a demo or test version is provided for evaluation only and may be
+revoked at any time.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Portions of the Software use third-party open-source components, which remain
+under their own licenses.
